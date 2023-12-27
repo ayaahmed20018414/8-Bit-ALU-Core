@@ -22,6 +22,13 @@ test bench cases results
 ![image](https://github.com/ayaahmed20018414/8-Bit-ALU-Core/assets/82789012/8921f0f2-2baa-4ee5-bc6f-9f8ec4c480c3)
 
 
+behavioral design block diagram using quartus prime
+![image](https://github.com/ayaahmed20018414/8-Bit-ALU-Core/assets/82789012/e2169f41-8242-411d-9b5d-a59c9d8bbb5c)
+
+
+
+structural design block diagram using quartus prime
+![image](https://github.com/ayaahmed20018414/8-Bit-ALU-Core/assets/82789012/68ab81e9-6e62-439a-bf17-ee0710a5f242)
 
 
 
