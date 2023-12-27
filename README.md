@@ -1,4 +1,4 @@
-# 8-Bit-ALU-Core
+![image](https://github.com/ayaahmed20018414/8-Bit-ALU-Core/assets/82789012/7b0ff124-6d59-4d05-979b-ad9d3fcf505d)# 8-Bit-ALU-Core
 ![image](https://github.com/ayaahmed20018414/8-Bit-ALU-Core/assets/82789012/edcf73fc-e4af-42b9-b38f-932446f92ce2)
 
 
@@ -15,7 +15,10 @@ table 1 operations of ALU
 
 
 both designs simulation results
-![Uploading image.png…]()
+![image](https://github.com/ayaahmed20018414/8-Bit-ALU-Core/assets/82789012/c82bf26d-acb1-4d1b-b610-4ac283c384b8)
+
+
+
 
 
 
