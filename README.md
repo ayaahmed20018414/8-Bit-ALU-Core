@@ -11,6 +11,11 @@ Table 1.
 
 
 table 1 operations of ALU
+
+
+
+
+
 ![image](https://github.com/ayaahmed20018414/8-Bit-ALU-Core/assets/82789012/b91bdbfc-5a22-4804-940a-d4a286155f52)
 
 
