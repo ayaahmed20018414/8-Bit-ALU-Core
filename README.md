@@ -1,4 +1,6 @@
-![image](https://github.com/ayaahmed20018414/8-Bit-ALU-Core/assets/82789012/7b0ff124-6d59-4d05-979b-ad9d3fcf505d)# 8-Bit-ALU-Core
+
+# 8-Bit-ALU-Core
+![image](https://github.com/ayaahmed20018414/8-Bit-ALU-Core/assets/82789012/b122611a-a3be-4ce6-8546-9634f8edc814)
 
 
 The ALU's operations are governed by four function inputs (S3 to S0), which direct the 8-bit
