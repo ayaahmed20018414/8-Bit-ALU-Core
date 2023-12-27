@@ -27,6 +27,10 @@ behavioral design block diagram using quartus prime
 
 
 
+
+
+
+
 structural design block diagram using quartus prime
 ![image](https://github.com/ayaahmed20018414/8-Bit-ALU-Core/assets/82789012/68ab81e9-6e62-439a-bf17-ee0710a5f242)
 
