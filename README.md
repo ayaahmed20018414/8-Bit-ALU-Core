@@ -14,6 +14,11 @@ table 1 operations of ALU
 
 
 
+both designs simulation results
+![Uploading image.png…]()
+
+
+
 
 
 
